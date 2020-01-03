@@ -1,0 +1,55 @@
+.bg-alt {
+  background-color: #FAFAFA;
+}
+#education .col-md-2 {
+  text-align: center;
+}
+#education h4 {
+  height: 70px;
+}
+#education h4.one-line {
+  padding-top: 19px;
+}
+#education h4.two-line {
+  padding-top: 9px;
+}
+#education p {
+  font-size: .9em;
+}
+#career h2 {
+  padding-top: 100px;
+}
+#career hr.primary {
+  padding-bottom: 30px;
+}
+#projects .col-md-3,
+#projects .col-md-4 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+#projects h4 {
+  height: 50px;
+}
+#projects h4.one-line {
+  padding-top: 11px;
+}
+#projects p {
+  text-align: justify;
+  font-size: 0.8em;
+  height: 130px;
+}
+#awards-and-certs .col-md-4 {
+  text-align: center;
+}
+#awards-and-certs h4 {
+  height: 40px;
+}
+#awards-and-certs h4.one-line {
+  padding-top: 19px;
+}
+#awards-and-certs p {
+  font-size: .9em;
+}
+#timeline-embed h2 {
+  font-size: 0.5em;
+}
